@@ -28,4 +28,3 @@ var funkyFunction = function() {
 let theFunk = function () {
     funkyFunction()
   }
-}
